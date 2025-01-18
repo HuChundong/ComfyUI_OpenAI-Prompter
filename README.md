@@ -21,7 +21,7 @@ cd ComfyUI/custom_nodes
 
 3. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ComfyUI_OpenAI-Prompter
+git clone https://github.com/nisimjoseph/ComfyUI_OpenAI-Prompter
 ```
 
 4. Install the required dependencies:
