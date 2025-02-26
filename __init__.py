@@ -91,7 +91,7 @@ class OpenAIPromptGenerator:
     CATEGORY = "prompt"  # Changed to match README's category description
 
     def _initialize_client(self):
-        // 增加 BASE_URL 从环境变量获取
+        # 增加 BASE_URL 从环境变量获取
         base_url = os.getenv('OPENAI_BASE_URL')
         api_key = os.getenv('OPENAI_API_KEY')
         if not api_key:
